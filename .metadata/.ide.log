@@ -1,0 +1,815 @@
+2021-03-21 21:29:32,055 [INFO] Activator:178 - 
+
+
+2021-03-21 21:29:32,063 [INFO] Activator:179 - !SESSION log4j initialized
+2021-03-21 21:30:20,115 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643
+2021-03-21 21:30:20,150 [INFO] DbMcusXml:70 - Set database path to: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/mcu/
+2021-03-21 21:30:20,158 [INFO] DbBoardsPdsc:56 - Set plugin database path to: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/boardmanager/
+2021-03-21 21:30:20,159 [INFO] DbMcus:258 - Set plugin images path to: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2021-03-21 21:30:20,160 [INFO] DbBoards:264 - Set plugin images path to: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2021-03-21 21:30:20,166 [INFO] DbExamples:326 - Set plugin images path to: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2021-03-21 21:30:20,178 [INFO] DbMcusDocs:112 - Set database path to: C:\Users\Михаил\.stmcufinder\plugins\mcufinder//mcu/
+2021-03-21 21:30:20,182 [INFO] DbMcusJson:63 - Set database path to: C:\Users\Михаил\.stmcufinder\plugins\mcufinder//mcu/
+2021-03-21 21:30:20,184 [INFO] DbBoardsDocs:112 - Set database path to: C:\Users\Михаил\.stmcufinder\plugins\mcufinder//mcu/
+2021-03-21 21:30:20,187 [INFO] DbBoardsJson:56 - Set database path to: C:\Users\Михаил\.stmcufinder\plugins\mcufinder//mcu/
+2021-03-21 21:30:20,195 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\Михаил\.stmcufinder\plugins\mcufinder//mcu/cs/
+2021-03-21 21:30:20,205 [INFO] DbExamplesSqlite:800 - Set database path to: C:\Users\Михаил\.stmcufinder\plugins\mcufinder//mcu/
+2021-03-21 21:30:20,549 [INFO] RulesReader:52 - Compatibility file has been processed (209 Rules)
+2021-03-21 21:30:20,736 [INFO] MicroXplorer:564 - Detected Java Version = 1.8.0_252
+2021-03-21 21:30:20,737 [INFO] DbMcusXml:70 - Set database path to: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/mcu/
+2021-03-21 21:30:20,738 [INFO] DbBoardsPdsc:56 - Set plugin database path to: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/boardmanager/
+2021-03-21 21:30:20,741 [INFO] DbMcus:258 - Set plugin images path to: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2021-03-21 21:30:20,741 [INFO] DbBoards:264 - Set plugin images path to: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2021-03-21 21:30:20,742 [INFO] DbExamples:326 - Set plugin images path to: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2021-03-21 21:30:20,742 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Михаил\.stmcufinder\plugins\mcufinder/ => C:\Users\Михаил\.stmcufinder\plugins\mcufinder
+2021-03-21 21:30:20,743 [INFO] DbMcusDocs:112 - Set database path to: C:\Users\Михаил\.stmcufinder\plugins\mcufinder//mcu/
+2021-03-21 21:30:20,743 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Михаил\.stmcufinder\plugins\mcufinder/ => C:\Users\Михаил\.stmcufinder\plugins\mcufinder
+2021-03-21 21:30:20,743 [INFO] DbMcusJson:63 - Set database path to: C:\Users\Михаил\.stmcufinder\plugins\mcufinder//mcu/
+2021-03-21 21:30:20,744 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Михаил\.stmcufinder\plugins\mcufinder/ => C:\Users\Михаил\.stmcufinder\plugins\mcufinder
+2021-03-21 21:30:20,744 [INFO] DbBoardsDocs:112 - Set database path to: C:\Users\Михаил\.stmcufinder\plugins\mcufinder//mcu/
+2021-03-21 21:30:20,744 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Михаил\.stmcufinder\plugins\mcufinder/ => C:\Users\Михаил\.stmcufinder\plugins\mcufinder
+2021-03-21 21:30:20,745 [INFO] DbBoardsJson:56 - Set database path to: C:\Users\Михаил\.stmcufinder\plugins\mcufinder//mcu/
+2021-03-21 21:30:20,745 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Михаил\.stmcufinder\plugins\mcufinder/ => C:\Users\Михаил\.stmcufinder\plugins\mcufinder
+2021-03-21 21:30:20,745 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Михаил\.stmcufinder\plugins\mcufinder/ => C:\Users\Михаил\.stmcufinder\plugins\mcufinder
+2021-03-21 21:30:20,746 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\Михаил\.stmcufinder\plugins\mcufinder//mcu/cs/
+2021-03-21 21:30:20,746 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Михаил\.stmcufinder\plugins\mcufinder/ => C:\Users\Михаил\.stmcufinder\plugins\mcufinder
+2021-03-21 21:30:20,747 [INFO] DbExamplesSqlite:800 - Set database path to: C:\Users\Михаил\.stmcufinder\plugins\mcufinder//mcu/
+2021-03-21 21:30:20,899 [INFO] MainPanel:189 - HeapMemory: 415236096
+2021-03-21 21:30:21,127 [INFO] DbMcusXml:70 - Set database path to: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/mcu/
+2021-03-21 21:30:21,128 [INFO] DbBoardsPdsc:56 - Set plugin database path to: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/boardmanager/
+2021-03-21 21:30:21,128 [INFO] DbMcus:258 - Set plugin images path to: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2021-03-21 21:30:21,129 [INFO] DbBoards:264 - Set plugin images path to: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2021-03-21 21:30:21,129 [INFO] DbExamples:326 - Set plugin images path to: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2021-03-21 21:30:21,130 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Михаил\.stmcufinder\plugins\mcufinder/ => C:\Users\Михаил\.stmcufinder\plugins\mcufinder
+2021-03-21 21:30:21,131 [INFO] DbMcusDocs:112 - Set database path to: C:\Users\Михаил\.stmcufinder\plugins\mcufinder//mcu/
+2021-03-21 21:30:21,131 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Михаил\.stmcufinder\plugins\mcufinder/ => C:\Users\Михаил\.stmcufinder\plugins\mcufinder
+2021-03-21 21:30:21,131 [INFO] DbMcusJson:63 - Set database path to: C:\Users\Михаил\.stmcufinder\plugins\mcufinder//mcu/
+2021-03-21 21:30:21,132 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Михаил\.stmcufinder\plugins\mcufinder/ => C:\Users\Михаил\.stmcufinder\plugins\mcufinder
+2021-03-21 21:30:21,132 [INFO] DbBoardsDocs:112 - Set database path to: C:\Users\Михаил\.stmcufinder\plugins\mcufinder//mcu/
+2021-03-21 21:30:21,132 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Михаил\.stmcufinder\plugins\mcufinder/ => C:\Users\Михаил\.stmcufinder\plugins\mcufinder
+2021-03-21 21:30:21,133 [INFO] DbBoardsJson:56 - Set database path to: C:\Users\Михаил\.stmcufinder\plugins\mcufinder//mcu/
+2021-03-21 21:30:21,134 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Михаил\.stmcufinder\plugins\mcufinder/ => C:\Users\Михаил\.stmcufinder\plugins\mcufinder
+2021-03-21 21:30:21,135 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Михаил\.stmcufinder\plugins\mcufinder/ => C:\Users\Михаил\.stmcufinder\plugins\mcufinder
+2021-03-21 21:30:21,135 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\Михаил\.stmcufinder\plugins\mcufinder//mcu/cs/
+2021-03-21 21:30:21,137 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Михаил\.stmcufinder\plugins\mcufinder/ => C:\Users\Михаил\.stmcufinder\plugins\mcufinder
+2021-03-21 21:30:21,152 [INFO] DbExamplesSqlite:800 - Set database path to: C:\Users\Михаил\.stmcufinder\plugins\mcufinder//mcu/
+2021-03-21 21:30:21,198 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643
+2021-03-21 21:30:21,206 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=, ]
+2021-03-21 21:30:21,209 [INFO] PluginManage:292 - Check plugin analytics
+2021-03-21 21:30:21,712 [INFO] AnalyticsPlugin:203 - Accepted Software Licenses: 
+2021-03-21 21:30:21,712 [INFO] AnalyticsPlugin:205 - Accepted CMSIS Pack Licenses: 
+2021-03-21 21:30:21,713 [INFO] AnalyticsPlugin:207 - Accepted Firmware Licenses: 
+2021-03-21 21:30:21,714 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2021-03-21 21:30:21,714 [INFO] PluginManage:292 - Check plugin clock
+2021-03-21 21:30:21,744 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2021-03-21 21:30:21,744 [INFO] PluginManage:292 - Check plugin ddr
+2021-03-21 21:30:21,749 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2021-03-21 21:30:21,751 [INFO] PluginManage:292 - Check plugin filemanager
+2021-03-21 21:30:21,884 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://download.eclipse.org:443: The target server failed to respond
+2021-03-21 21:30:21,979 [INFO] RetryExec:113 - Retrying request to {s}->https://download.eclipse.org:443
+2021-03-21 21:30:22,218 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2021-03-21 21:30:22,219 [INFO] PluginManage:292 - Check plugin ipmanager
+2021-03-21 21:30:22,248 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2021-03-21 21:30:22,250 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2021-03-21 21:30:22,303 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2021-03-21 21:30:22,304 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2021-03-21 21:30:22,456 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2021-03-21 21:30:22,457 [INFO] PluginManage:292 - Check plugin power
+2021-03-21 21:30:22,488 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2021-03-21 21:30:22,489 [INFO] PluginManage:292 - Check plugin projectmanager
+2021-03-21 21:30:22,694 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2021-03-21 21:30:22,695 [INFO] PluginManage:292 - Check plugin thirdparty
+2021-03-21 21:30:23,137 [INFO] ThirdPartyDb:333 - Open Third Party DataBase File (C:/Users/Михаил/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 127 ms. number of Sw pack : 49
+2021-03-21 21:30:23,146 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2021-03-21 21:30:23,147 [INFO] PluginManage:292 - Check plugin tools
+2021-03-21 21:30:23,151 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2021-03-21 21:30:23,152 [INFO] PluginManage:292 - Check plugin tutovideos
+2021-03-21 21:30:23,923 [INFO] PluginManage:342 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2021-03-21 21:30:23,924 [INFO] PluginManage:292 - Check plugin updater
+2021-03-21 21:30:23,963 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2021-03-21 21:30:23,965 [INFO] PluginManage:265 - PluginManage : Loaded plugins [13]
+2021-03-21 21:30:24,321 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://download.eclipse.org:443: The target server failed to respond
+2021-03-21 21:30:24,321 [INFO] RetryExec:113 - Retrying request to {s}->https://download.eclipse.org:443
+2021-03-21 21:30:24,447 [INFO] PinOutPanel:1418 - setPackage(No Configuration,No Configuration)
+2021-03-21 21:30:24,701 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,702 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2021-03-21 21:30:24,708 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,712 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2021-03-21 21:30:24,720 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,720 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2021-03-21 21:30:24,724 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,724 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2021-03-21 21:30:24,733 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,734 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2021-03-21 21:30:24,745 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,747 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2021-03-21 21:30:24,760 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,762 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2021-03-21 21:30:24,767 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,769 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2021-03-21 21:30:24,777 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,778 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2021-03-21 21:30:24,790 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,791 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2021-03-21 21:30:24,795 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,795 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2021-03-21 21:30:24,800 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,800 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2021-03-21 21:30:24,812 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,813 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2021-03-21 21:30:24,822 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,822 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2021-03-21 21:30:24,829 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,836 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2021-03-21 21:30:24,854 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,855 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2021-03-21 21:30:24,861 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,861 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2021-03-21 21:30:24,867 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,867 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2021-03-21 21:30:24,873 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,874 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2021-03-21 21:30:24,877 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,877 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2021-03-21 21:30:24,886 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,887 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2021-03-21 21:30:24,895 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,898 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2021-03-21 21:30:24,905 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,906 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2021-03-21 21:30:24,914 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,915 [INFO] PluginManager:200 - loadIPPluginJar : add openamp
+2021-03-21 21:30:24,920 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,921 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2021-03-21 21:30:24,947 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,957 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2021-03-21 21:30:24,965 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,965 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2021-03-21 21:30:24,978 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,979 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2021-03-21 21:30:24,986 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,986 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2021-03-21 21:30:24,992 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:24,993 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2021-03-21 21:30:25,000 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:25,001 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2021-03-21 21:30:25,006 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:25,006 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2021-03-21 21:30:25,018 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:25,019 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2021-03-21 21:30:25,024 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:25,025 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2021-03-21 21:30:25,034 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:25,040 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2021-03-21 21:30:25,044 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:25,045 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2021-03-21 21:30:25,049 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:25,050 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2021-03-21 21:30:25,056 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:30:25,057 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2021-03-21 21:30:26,007 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://download.eclipse.org:443: The target server failed to respond
+2021-03-21 21:30:26,007 [INFO] RetryExec:113 - Retrying request to {s}->https://download.eclipse.org:443
+2021-03-21 21:30:27,521 [INFO] CubeProgrammer:457 - [DDR PANEL] - PathOfProgrammer: null
+2021-03-21 21:30:29,923 [FATAL] Updater:282 - Updater called before beeing initialized
+2021-03-21 21:30:30,853 [FATAL] Updater:282 - Updater called before beeing initialized
+2021-03-21 21:30:30,854 [WARN] ThirdParty:775 - waiting for thirdparty lock release [close project]
+2021-03-21 21:30:30,855 [INFO] ThirdParty:777 - entering critical section [close project]
+2021-03-21 21:30:30,860 [INFO] ThirdParty:790 - exiting critical section [close project]
+2021-03-21 21:30:30,900 [INFO] PinOutPanel:1418 - setPackage(No Configuration,No Configuration)
+2021-03-21 21:30:30,901 [FATAL] Updater:282 - Updater called before beeing initialized
+2021-03-21 21:30:30,967 [ERROR] Updater:967 - MainUpdater not yet initialized. External WinMGr cannot be set.
+2021-03-21 21:30:30,971 [INFO] CubeProgrammer:457 - [DDR PANEL] - PathOfProgrammer: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.4.0.202007081208\tools\bin
+2021-03-21 21:30:31,026 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.4.0.202007081208\tools\bin\STM32_Programmer_CLI.exe -l
+2021-03-21 21:30:39,234 [INFO] MainDdrPanel:49 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.4.0.202007081208\tools\bin
+2021-03-21 21:30:39,416 [INFO] Updater:904 - Updater Version found : 6.0.1
+2021-03-21 21:30:39,452 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643
+2021-03-21 21:30:39,960 [INFO] MainUpdater:2268 - connection check result : 10
+2021-03-21 21:30:39,961 [INFO] MainUpdater:239 - Updater Check For Update Now.
+2021-03-21 21:30:39,962 [INFO] MicroXplorer:414 - Change Database Version : DB.6.0.0
+2021-03-21 21:30:40,359 [INFO] CheckServerUpdateThread:102 - End of CheckServer Thread
+2021-03-21 21:30:40,409 [INFO] MainUpdater:2268 - connection check result : 10
+2021-03-21 21:30:40,725 [WARN] IntegrityCheckThread:61 - waiting for thirdparty lock release [integrity check]
+2021-03-21 21:30:40,726 [INFO] IntegrityCheckThread:63 - entering critical section [integrity check]
+2021-03-21 21:30:42,101 [INFO] ThirdPartyDb:299 - Save Third Party DataBase File (C:/Users/Михаил/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) [forced]
+2021-03-21 21:30:42,341 [INFO] ThirdPartyDb:299 - Save Third Party DataBase File (C:/Users/Михаил/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) [forced]
+2021-03-21 21:30:42,626 [INFO] IntegrityCheckThread:76 - exiting critical section [integrity check]
+2021-03-21 21:30:42,627 [INFO] IntegrityCheckThread:79 - End integrity checks thread
+2021-03-21 21:30:42,793 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2021-03-21 21:30:43,147 [INFO] CrossSelectorPresenter:1330 - Cross Selector saved comparison directory: C:\Users\Михаил\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2021-03-21 21:30:43,158 [INFO] MultiScanPanel:193 - Auto-refresh data requested => check proxy status ongoing
+2021-03-21 21:30:43,164 [INFO] FinderPluginLoader:87 - Searching for filters in installed packs
+2021-03-21 21:30:43,167 [INFO] DbMcusXml:100 - Load MCU database from C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/mcu/families.xml
+2021-03-21 21:30:47,153 [INFO] DbMcusJson:92 - JSON generation date=Mon Feb 08 18:35:07 GMT+05:00 2021 (1612791307)
+2021-03-21 21:30:50,786 [INFO] DbMcus:175 - Found 1761 MCUs (1722 are supported by CubeMX, 1752 are visible in CubeMX)
+2021-03-21 21:30:50,787 [INFO] ApiDb:201 - Load user favorites file C:\Users\Михаил/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2021-03-21 21:30:50,788 [INFO] ApiDb:205 - User favorites MCUs=[]
+2021-03-21 21:30:50,788 [INFO] DbMcus:187 - Set 0 / 0 favorites MCUs
+2021-03-21 21:30:52,066 [INFO] LoadUrlFilesThread:162 - End of LoadServerUrlFiles without Thread
+2021-03-21 21:30:52,326 [INFO] DetailPanel:331 - Set advertising image to C:/Users/Михаил/STM32Cube/Repository/\stm32cubemx-promo_image.jpg
+2021-03-21 21:30:54,243 [INFO] McuFilterPanel:245 - Update 0 favorites MCUs
+2021-03-21 21:30:54,414 [INFO] DbBoardsPdsc:94 - Found 23 items
+2021-03-21 21:30:54,417 [INFO] DbBoardsPdsc:94 - Found 9 items
+2021-03-21 21:30:54,424 [INFO] DbBoardsPdsc:94 - Found 29 items
+2021-03-21 21:30:54,426 [INFO] DbBoardsPdsc:94 - Found 1 items
+2021-03-21 21:30:54,437 [INFO] DbBoardsPdsc:94 - Found 44 items
+2021-03-21 21:30:54,450 [INFO] DbBoardsPdsc:94 - Found 40 items
+2021-03-21 21:30:54,453 [INFO] DbBoardsPdsc:94 - Found 2 items
+2021-03-21 21:30:54,457 [INFO] DbBoardsPdsc:94 - Found 4 items
+2021-03-21 21:30:54,487 [WARN] DbBoardsPdsc:258 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2021-03-21 21:30:54,488 [WARN] DbBoardsPdsc:258 - Board STM32H735G-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (WM8994ECS/R), n=1
+2021-03-21 21:30:54,497 [WARN] DbBoardsPdsc:258 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2021-03-21 21:30:54,498 [WARN] DbBoardsPdsc:258 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2021-03-21 21:30:54,499 [WARN] DbBoardsPdsc:258 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2021-03-21 21:30:54,626 [INFO] DbBoardsJson:85 - JSON generation date=Thu Feb 04 21:53:45 GMT+05:00 2021 (1612457625)
+2021-03-21 21:30:54,638 [INFO] DbBoards:117 - Found 154 boards (149 are supported by CubeMX)
+2021-03-21 21:30:54,702 [INFO] DbBoardsDocs:145 - JSON generation date=Mon Feb 08 18:35:07 GMT+05:00 2021 (1612791307)
+2021-03-21 21:30:54,783 [INFO] DbBoardsDocs:81 - Found 193 boards documents
+2021-03-21 21:30:54,784 [WARN] DbBoards:127 - board B-L462E-CELL1 has no document id list !
+2021-03-21 21:30:54,784 [WARN] DbBoards:127 - board B-L475E-IOT01A2 has no document id list !
+2021-03-21 21:30:54,787 [WARN] DbBoards:127 - board NUCLEO-H743ZI2 has no document id list !
+2021-03-21 21:30:54,788 [WARN] DbBoards:127 - board NUCLEO-WB55RG has no document id list !
+2021-03-21 21:30:54,789 [WARN] DbBoards:127 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2021-03-21 21:30:54,789 [WARN] DbBoards:127 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2021-03-21 21:30:54,789 [WARN] DbBoards:127 - board STEVAL-BFA001V1B has no document id list !
+2021-03-21 21:30:54,790 [WARN] DbBoards:127 - board STEVAL-BFA001V2B has no document id list !
+2021-03-21 21:30:54,790 [WARN] DbBoards:127 - board STEVAL-IDP005V1 has no document id list !
+2021-03-21 21:30:54,790 [WARN] DbBoards:127 - board STEVAL-IDP005V2 has no document id list !
+2021-03-21 21:30:54,790 [WARN] DbBoards:127 - board STEVAL-MKSBOX1V1 has no document id list !
+2021-03-21 21:30:54,790 [WARN] DbBoards:127 - board STEVAL-STWINKT1 has no document id list !
+2021-03-21 21:30:54,790 [WARN] DbBoards:127 - board STEVAL-STWINKT1B has no document id list !
+2021-03-21 21:30:54,792 [WARN] DbBoards:127 - board STM32F401C-DISCO has no document id list !
+2021-03-21 21:30:54,793 [WARN] DbBoards:127 - board STM32F769I-DISC1 has no document id list !
+2021-03-21 21:30:54,810 [WARN] DbBoards:127 - board STM32G474E-EVAL1 has no document id list !
+2021-03-21 21:30:54,811 [WARN] DbBoards:127 - board STM32H743I-EVAL2 has no document id list !
+2021-03-21 21:30:54,812 [WARN] DbBoards:127 - board STM32H747I-DISC1 has no document id list !
+2021-03-21 21:30:54,812 [WARN] DbBoards:127 - board STM32H753I-EVAL2 has no document id list !
+2021-03-21 21:30:54,813 [WARN] DbBoards:127 - board STM32L-DISCOVERY has no document id list !
+2021-03-21 21:30:54,814 [WARN] DbBoards:127 - board STM32MP157A-DK1 has no document id list !
+2021-03-21 21:30:54,815 [WARN] DbBoards:127 - board STM32MP157F-EV1 has no document id list !
+2021-03-21 21:30:55,026 [ERROR] DbBoards:192 - No image file URL for board B-L462E-CELL1
+2021-03-21 21:30:57,001 [ERROR] DbBoards:189 - Image file not found for board NUCLEO-WL55JC: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/boards/nucleo-wl55jc-small.jpg
+2021-03-21 21:30:57,730 [ERROR] DbBoards:189 - Image file not found for board STEVAL-STWINKT1B: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/boards/steval-stwinkt1b_small.jpg
+2021-03-21 21:31:00,847 [ERROR] DbBoards:189 - Image file not found for board STM32H7B3I-EVAL: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/boards/stm32h7b3ieval_small.jpg
+2021-03-21 21:31:01,692 [INFO] ApiDb:201 - Load user favorites file C:\Users\Михаил/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2021-03-21 21:31:01,693 [INFO] ApiDb:205 - User favorites Boards=[]
+2021-03-21 21:31:01,693 [INFO] DbBoards:206 - Set 0 / 0 favorites Boards
+2021-03-21 21:31:28,308 [INFO] DbMcusDocs:145 - JSON generation date=Mon Feb 08 18:35:07 GMT+05:00 2021 (1612791307)
+2021-03-21 21:31:29,011 [INFO] DbMcusDocs:81 - Found 617 MCUs documents
+2021-03-21 21:31:40,980 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.11.2
+2021-03-21 21:31:40,983 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.11.1
+2021-03-21 21:31:40,984 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.11.0
+2021-03-21 21:31:44,420 [INFO] MainUpdater:2268 - connection check result : 10
+2021-03-21 21:31:44,421 [INFO] MainUpdater:2268 - connection check result : 10
+2021-03-21 21:31:44,538 [INFO] MicroXplorer:384 - Change Database Path : 
+2021-03-21 21:31:44,538 [INFO] MicroXplorer:414 - Change Database Version : DB.6.0.0
+2021-03-21 21:31:44,539 [WARN] ThirdParty:775 - waiting for thirdparty lock release [close project]
+2021-03-21 21:31:44,539 [INFO] ThirdParty:777 - entering critical section [close project]
+2021-03-21 21:31:44,539 [INFO] ThirdParty:790 - exiting critical section [close project]
+2021-03-21 21:31:44,638 [INFO] PinOutPanel:1418 - setPackage(No Configuration,No Configuration)
+2021-03-21 21:31:44,640 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 388240656 Bytes (567279616)
+2021-03-21 21:31:44,641 [INFO] MicroXplorer:384 - Change Database Path : 
+2021-03-21 21:31:44,641 [INFO] MicroXplorer:414 - Change Database Version : DB.6.0.0
+2021-03-21 21:31:44,642 [INFO] OpenFileManager:274 - Change cursor
+2021-03-21 21:31:59,318 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2021-03-21 21:31:59,319 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.PinsNb) in loaded IOC file
+2021-03-21 21:31:59,319 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.IPNb) in loaded IOC file
+2021-03-21 21:31:59,557 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1614929921141]
+2021-03-21 21:31:59,557 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1614929921146]
+2021-03-21 21:31:59,557 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1614929921087]
+2021-03-21 21:31:59,558 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1614929921156]
+2021-03-21 21:31:59,565 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1614929921141]
+2021-03-21 21:31:59,566 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1614929921146]
+2021-03-21 21:31:59,566 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1614929921087]
+2021-03-21 21:31:59,566 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1614929921156]
+2021-03-21 21:31:59,567 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1614929921141]
+2021-03-21 21:31:59,567 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1614929921146]
+2021-03-21 21:31:59,568 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1614929921087]
+2021-03-21 21:31:59,568 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1614929921156]
+2021-03-21 21:31:59,568 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1614929921141]
+2021-03-21 21:31:59,569 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1614929921146]
+2021-03-21 21:31:59,569 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1614929921087]
+2021-03-21 21:31:59,569 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1614929921156]
+2021-03-21 21:31:59,575 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.0.0: no header file found
+2021-03-21 21:31:59,575 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.0.0: no header file found
+2021-03-21 21:31:59,576 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.0.0: no header file found
+2021-03-21 21:31:59,578 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.2.0.0: no header file found
+2021-03-21 21:31:59,579 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.2.0.0: no header file found
+2021-03-21 21:31:59,579 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.2.0.0: no header file found
+2021-03-21 21:31:59,761 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,761 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Accelerometer Calibration Condition id : 1606288310047
+2021-03-21 21:31:59,762 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,763 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Vertical Context Condition id : 1606288310097
+2021-03-21 21:31:59,763 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,763 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Carry Position Condition id : 1606288310115
+2021-03-21 21:31:59,764 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,765 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Gesture Recognition Condition id : 1606288310150
+2021-03-21 21:31:59,765 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,765 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Dynamic Inclinometer Condition id : 1606288310168
+2021-03-21 21:31:59,766 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,767 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Airplane Detection Condition id : 1606288310186
+2021-03-21 21:31:59,767 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,768 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Active Time Condition id : 1606288310204
+2021-03-21 21:31:59,768 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,768 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Activity Recognition Condition id : 1606288310222
+2021-03-21 21:31:59,769 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,769 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Activity Recognition Wrist Condition id : 1606288310240
+2021-03-21 21:31:59,770 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,770 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Fall Detection Condition id : 1606288310258
+2021-03-21 21:31:59,771 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,771 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Fitness Activities Condition id : 1606288310276
+2021-03-21 21:31:59,772 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,772 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Pedometer Condition id : 1606288310294
+2021-03-21 21:31:59,772 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,773 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Pedometer Wrist Condition id : 1606288310312
+2021-03-21 21:31:59,773 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,774 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Pose Estimation Condition id : 1606288310331
+2021-03-21 21:31:59,774 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,774 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Standing Sitting Desk Condition id : 1606288310349
+2021-03-21 21:31:59,776 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,777 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Accelerometer Calibration Condition id : 1606288310597
+2021-03-21 21:31:59,778 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,778 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Vertical Context Condition id : 1606288310647
+2021-03-21 21:31:59,779 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,779 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Carry Position Condition id : 1606288310665
+2021-03-21 21:31:59,780 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,780 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Gesture Recognition Condition id : 1606288310700
+2021-03-21 21:31:59,781 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,781 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Dynamic Inclinometer Condition id : 1606288310718
+2021-03-21 21:31:59,781 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,782 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Airplane Detection Condition id : 1606288310736
+2021-03-21 21:31:59,782 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,783 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Active Time Condition id : 1606288310754
+2021-03-21 21:31:59,783 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,783 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Activity Recognition Condition id : 1606288310772
+2021-03-21 21:31:59,784 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,784 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Activity Recognition Wrist Condition id : 1606288310790
+2021-03-21 21:31:59,784 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,785 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Fall Detection Condition id : 1606288310808
+2021-03-21 21:31:59,785 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,786 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Fitness Activities Condition id : 1606288310826
+2021-03-21 21:31:59,786 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,786 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Pedometer Condition id : 1606288310844
+2021-03-21 21:31:59,787 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,787 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Pedometer Wrist Condition id : 1606288310862
+2021-03-21 21:31:59,788 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,788 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Pose Estimation Condition id : 1606288310881
+2021-03-21 21:31:59,789 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,789 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Standing Sitting Desk Condition id : 1606288310899
+2021-03-21 21:31:59,790 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,790 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS02A1 Accelerometer Calibration Condition id : 1606288310963
+2021-03-21 21:31:59,791 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,792 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS02A1 Dynamic Inclinometer Condition id : 1606288311030
+2021-03-21 21:31:59,794 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,794 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Accelerometer Calibration Condition id : 1606288311250
+2021-03-21 21:31:59,795 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,795 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Vertical Context Condition id : 1606288311281
+2021-03-21 21:31:59,796 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,796 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Carry Position Condition id : 1606288311295
+2021-03-21 21:31:59,796 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,797 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Gesture Recognition Condition id : 1606288311320
+2021-03-21 21:31:59,797 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,797 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Dynamic Inclinometer Condition id : 1606288311332
+2021-03-21 21:31:59,798 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,798 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Airplane Detection Condition id : 1606288311346
+2021-03-21 21:31:59,799 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,799 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Active Time Condition id : 1606288311362
+2021-03-21 21:31:59,800 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,800 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Activity Recognition Condition id : 1606288311374
+2021-03-21 21:31:59,800 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,801 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Activity Recognition Wrist Condition id : 1606288311386
+2021-03-21 21:31:59,801 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,802 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Fall Detection Condition id : 1606288311398
+2021-03-21 21:31:59,802 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,802 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Fitness Activities Condition id : 1606288311410
+2021-03-21 21:31:59,803 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,803 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Pedometer Condition id : 1606288311425
+2021-03-21 21:31:59,803 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,804 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Pedometer Wrist Condition id : 1606288311437
+2021-03-21 21:31:59,804 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,804 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Pose Estimation Condition id : 1606288311450
+2021-03-21 21:31:59,805 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,805 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Standing Sitting Desk Condition id : 1606288311462
+2021-03-21 21:31:59,806 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,806 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionAC Condition id : 1606288311511
+2021-03-21 21:31:59,806 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,807 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionVC Condition id : 1606288311519
+2021-03-21 21:31:59,807 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,807 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionCP Condition id : 1606288311523
+2021-03-21 21:31:59,808 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,808 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionGR Condition id : 1606288311529
+2021-03-21 21:31:59,809 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,809 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionDI Condition id : 1606288311533
+2021-03-21 21:31:59,810 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,810 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionAD Condition id : 1606288311537
+2021-03-21 21:31:59,810 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,811 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionAT Condition id : 1606288311541
+2021-03-21 21:31:59,811 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,811 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionAR Condition id : 1606288311545
+2021-03-21 21:31:59,812 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,812 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionAW Condition id : 1606288311549
+2021-03-21 21:31:59,812 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,812 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionFD Condition id : 1606288311553
+2021-03-21 21:31:59,813 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,813 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionFA Condition id : 1606288311557
+2021-03-21 21:31:59,813 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,814 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionPM Condition id : 1606288311561
+2021-03-21 21:31:59,814 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,814 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionPE Condition id : 1606288311567
+2021-03-21 21:31:59,815 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1606288323454, 1606288323456, 1606288323464]
+2021-03-21 21:31:59,815 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionSD Condition id : 1606288311571
+2021-03-21 21:31:59,816 [WARN] ApiManager:274 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.8.2.0: no header file found
+2021-03-21 21:31:59,816 [WARN] ApiManager:274 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.8.2.0: no header file found
+2021-03-21 21:31:59,816 [WARN] ApiManager:274 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.8.2.0: no header file found
+2021-03-21 21:31:59,818 [WARN] ApiManager:274 - Cannot register API 'Board Extension:EEPRMA1' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.0.0: no header file found
+2021-03-21 21:31:59,818 [WARN] ApiManager:274 - Cannot register API 'Board Extension:EEPRMA2' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.0.0: no header file found
+2021-03-21 21:31:59,857 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,858 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Accelerometer Calibration Condition id : 1598820968067
+2021-03-21 21:31:59,859 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,859 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Vertical Context Condition id : 1598820968117
+2021-03-21 21:31:59,860 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,860 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Carry Position Condition id : 1598820968135
+2021-03-21 21:31:59,861 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,861 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Gesture Recognition Condition id : 1598820968170
+2021-03-21 21:31:59,862 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,862 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Dynamic Inclinometer Condition id : 1598820968188
+2021-03-21 21:31:59,862 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,863 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Airplane Detection Condition id : 1598820968206
+2021-03-21 21:31:59,865 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,865 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Accelerometer Calibration Condition id : 1598820968454
+2021-03-21 21:31:59,866 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,866 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Vertical Context Condition id : 1598820968504
+2021-03-21 21:31:59,866 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,867 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Carry Position Condition id : 1598820968522
+2021-03-21 21:31:59,867 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,868 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Gesture Recognition Condition id : 1598820968557
+2021-03-21 21:31:59,868 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,868 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Dynamic Inclinometer Condition id : 1598820968575
+2021-03-21 21:31:59,869 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,869 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Airplane Detection Condition id : 1598820968593
+2021-03-21 21:31:59,870 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,871 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS02A1 Accelerometer Calibration Condition id : 1598820968657
+2021-03-21 21:31:59,872 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,872 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS02A1 Dynamic Inclinometer Condition id : 1598820968724
+2021-03-21 21:31:59,874 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,874 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Accelerometer Calibration Condition id : 1598820968944
+2021-03-21 21:31:59,875 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,875 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Vertical Context Condition id : 1598820968975
+2021-03-21 21:31:59,876 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,876 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Carry Position Condition id : 1598820968989
+2021-03-21 21:31:59,876 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,877 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Gesture Recognition Condition id : 1598820969014
+2021-03-21 21:31:59,877 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,877 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Dynamic Inclinometer Condition id : 1598820969026
+2021-03-21 21:31:59,878 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,878 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Airplane Detection Condition id : 1598820969040
+2021-03-21 21:31:59,879 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,879 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionAC Condition id : 1598820969062
+2021-03-21 21:31:59,880 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,880 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionVC Condition id : 1598820969070
+2021-03-21 21:31:59,880 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,881 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionCP Condition id : 1598820969074
+2021-03-21 21:31:59,881 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,881 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionGR Condition id : 1598820969080
+2021-03-21 21:31:59,881 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,882 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionDI Condition id : 1598820969084
+2021-03-21 21:31:59,882 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1598820977783, 1598820977785, 1598820977793]
+2021-03-21 21:31:59,882 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionAD Condition id : 1598820969088
+2021-03-21 21:31:59,883 [WARN] ApiManager:274 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.8.0.0: no header file found
+2021-03-21 21:31:59,883 [WARN] ApiManager:274 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.8.0.0: no header file found
+2021-03-21 21:31:59,884 [WARN] ApiManager:274 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.8.0.0: no header file found
+2021-03-21 21:31:59,886 [INFO] RtosManager:456 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2021-03-21 21:31:59,887 [INFO] RtosManager:456 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2021-03-21 21:31:59,887 [INFO] RtosManager:456 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2021-03-21 21:31:59,887 [INFO] RtosManager:456 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2021-03-21 21:31:59,888 [WARN] ModelIntegratedComponent:188 - Missing modes for component 1598820984351
+2021-03-21 21:31:59,889 [WARN] ApiManager:274 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.2.0.0: no header file found
+2021-03-21 21:31:59,891 [WARN] ApiManager:274 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.5.1.0: no header file found
+2021-03-21 21:31:59,891 [WARN] ApiManager:274 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.5.1.0: no header file found
+2021-03-21 21:31:59,892 [WARN] ApiManager:274 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.5.1.0: no header file found
+2021-03-21 21:31:59,892 [WARN] ApiManager:274 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.0.0: no header file found
+2021-03-21 21:31:59,894 [WARN] ApiManager:274 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.2: no header file found
+2021-03-21 21:31:59,895 [WARN] ApiManager:274 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.1: no header file found
+2021-03-21 21:31:59,898 [WARN] ApiManager:274 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.0.0: no header file found
+2021-03-21 21:31:59,899 [WARN] ApiManager:274 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.2.0: no header file found
+2021-03-21 21:31:59,902 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.3.0.1: no header file found
+2021-03-21 21:31:59,902 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.3.0.1: no header file found
+2021-03-21 21:31:59,903 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.3.0.1: no header file found
+2021-03-21 21:31:59,906 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.3.0.0: no header file found
+2021-03-21 21:31:59,906 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.3.0.0: no header file found
+2021-03-21 21:31:59,906 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.3.0.0: no header file found
+2021-03-21 21:31:59,909 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.0.0: no header file found
+2021-03-21 21:31:59,910 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.4.0.0: no header file found
+2021-03-21 21:31:59,910 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.0.0: no header file found
+2021-03-21 21:31:59,911 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1614929920950]
+2021-03-21 21:31:59,911 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : STM32H723ZG_NUCLEO_CONDITION id : 1614929920224
+2021-03-21 21:31:59,911 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1614929920834]
+2021-03-21 21:31:59,912 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : STM32H735G_DK_CONDITION id : 1614929920225
+2021-03-21 21:31:59,912 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1614929920802]
+2021-03-21 21:31:59,912 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : STM32H743I_EVAL_CONDITION id : 1614929920226
+2021-03-21 21:31:59,912 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1614929920907]
+2021-03-21 21:31:59,913 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : STM32H747_DK_CONDITION id : 1614929920227
+2021-03-21 21:31:59,967 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,968 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Accelerometer Calibration Condition id : 1600953781666
+2021-03-21 21:31:59,968 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,969 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Vertical Context Condition id : 1600953781716
+2021-03-21 21:31:59,969 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,970 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Carry Position Condition id : 1600953781734
+2021-03-21 21:31:59,970 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,970 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Gesture Recognition Condition id : 1600953781769
+2021-03-21 21:31:59,971 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,971 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Dynamic Inclinometer Condition id : 1600953781787
+2021-03-21 21:31:59,972 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,972 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Airplane Detection Condition id : 1600953781805
+2021-03-21 21:31:59,974 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,975 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Accelerometer Calibration Condition id : 1600953782053
+2021-03-21 21:31:59,975 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,976 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Vertical Context Condition id : 1600953782103
+2021-03-21 21:31:59,976 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,976 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Carry Position Condition id : 1600953782121
+2021-03-21 21:31:59,977 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,977 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Gesture Recognition Condition id : 1600953782156
+2021-03-21 21:31:59,978 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,978 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Dynamic Inclinometer Condition id : 1600953782174
+2021-03-21 21:31:59,978 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,979 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Airplane Detection Condition id : 1600953782192
+2021-03-21 21:31:59,980 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,980 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS02A1 Accelerometer Calibration Condition id : 1600953782256
+2021-03-21 21:31:59,981 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,981 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS02A1 Dynamic Inclinometer Condition id : 1600953782323
+2021-03-21 21:31:59,983 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,983 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Accelerometer Calibration Condition id : 1600953782543
+2021-03-21 21:31:59,984 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,984 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Vertical Context Condition id : 1600953782574
+2021-03-21 21:31:59,985 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,985 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Carry Position Condition id : 1600953782588
+2021-03-21 21:31:59,985 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,986 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Gesture Recognition Condition id : 1600953782613
+2021-03-21 21:31:59,986 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,986 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Dynamic Inclinometer Condition id : 1600953782625
+2021-03-21 21:31:59,986 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,987 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Airplane Detection Condition id : 1600953782639
+2021-03-21 21:31:59,987 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,988 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionAC Condition id : 1600953782692
+2021-03-21 21:31:59,988 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,988 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionVC Condition id : 1600953782700
+2021-03-21 21:31:59,989 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,989 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionCP Condition id : 1600953782704
+2021-03-21 21:31:59,989 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,990 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionGR Condition id : 1600953782710
+2021-03-21 21:31:59,990 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,990 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionDI Condition id : 1600953782714
+2021-03-21 21:31:59,990 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1600953791491, 1600953791493, 1600953791501]
+2021-03-21 21:31:59,991 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionAD Condition id : 1600953782718
+2021-03-21 21:31:59,992 [WARN] ApiManager:274 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.8.1.1: no header file found
+2021-03-21 21:31:59,992 [WARN] ApiManager:274 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.8.1.1: no header file found
+2021-03-21 21:31:59,992 [WARN] ApiManager:274 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.8.1.1: no header file found
+2021-03-21 21:31:59,993 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1602415243140]
+2021-03-21 21:31:59,993 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : GFX01M1_Condition id : 1602415243125
+2021-03-21 21:31:59,993 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1602415243140]
+2021-03-21 21:31:59,994 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : GFX01M1_HelloWorld_Condition id : 1602415243127
+2021-03-21 21:32:00,088 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,089 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Accelerometer Calibration Condition id : 1599619657504
+2021-03-21 21:32:00,089 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,090 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Vertical Context Condition id : 1599619657554
+2021-03-21 21:32:00,090 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,091 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Carry Position Condition id : 1599619657572
+2021-03-21 21:32:00,091 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,092 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Gesture Recognition Condition id : 1599619657607
+2021-03-21 21:32:00,092 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,092 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Dynamic Inclinometer Condition id : 1599619657625
+2021-03-21 21:32:00,093 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,093 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A3 Airplane Detection Condition id : 1599619657643
+2021-03-21 21:32:00,095 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,096 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Accelerometer Calibration Condition id : 1599619657891
+2021-03-21 21:32:00,096 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,097 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Vertical Context Condition id : 1599619657941
+2021-03-21 21:32:00,097 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,097 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Carry Position Condition id : 1599619657959
+2021-03-21 21:32:00,098 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,098 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Gesture Recognition Condition id : 1599619657994
+2021-03-21 21:32:00,099 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,099 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Dynamic Inclinometer Condition id : 1599619658012
+2021-03-21 21:32:00,099 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,100 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS01A2 Airplane Detection Condition id : 1599619658030
+2021-03-21 21:32:00,100 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,101 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS02A1 Accelerometer Calibration Condition id : 1599619658094
+2021-03-21 21:32:00,102 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,102 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : IKS02A1 Dynamic Inclinometer Condition id : 1599619658161
+2021-03-21 21:32:00,104 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,104 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Accelerometer Calibration Condition id : 1599619658381
+2021-03-21 21:32:00,105 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,105 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Vertical Context Condition id : 1599619658412
+2021-03-21 21:32:00,105 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,106 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Carry Position Condition id : 1599619658426
+2021-03-21 21:32:00,106 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,106 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Gesture Recognition Condition id : 1599619658451
+2021-03-21 21:32:00,107 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,107 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Dynamic Inclinometer Condition id : 1599619658463
+2021-03-21 21:32:00,107 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,108 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : CUSTOM Airplane Detection Condition id : 1599619658477
+2021-03-21 21:32:00,108 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,109 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionAC Condition id : 1599619658530
+2021-03-21 21:32:00,109 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,109 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionVC Condition id : 1599619658538
+2021-03-21 21:32:00,109 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,110 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionCP Condition id : 1599619658542
+2021-03-21 21:32:00,110 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,110 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionGR Condition id : 1599619658548
+2021-03-21 21:32:00,111 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,111 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionDI Condition id : 1599619658552
+2021-03-21 21:32:00,111 [INFO] DependencyParser:915 - This component is not compatible with the current MCU : [1599619667329, 1599619667331, 1599619667339]
+2021-03-21 21:32:00,111 [INFO] ThirdPartyModel:556 - Component with status : MCU_INCOMPATIBLE for condition : MotionAD Condition id : 1599619658556
+2021-03-21 21:32:00,112 [WARN] ApiManager:274 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.8.1.0: no header file found
+2021-03-21 21:32:00,112 [WARN] ApiManager:274 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.8.1.0: no header file found
+2021-03-21 21:32:00,113 [WARN] ApiManager:274 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.8.1.0: no header file found
+2021-03-21 21:32:00,115 [WARN] ApiManager:274 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.5.0.0: no header file found
+2021-03-21 21:32:00,115 [WARN] ApiManager:274 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.5.0.0: no header file found
+2021-03-21 21:32:00,115 [WARN] ApiManager:274 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.5.0.0: no header file found
+2021-03-21 21:32:00,116 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.2.0.0: no header file found
+2021-03-21 21:32:00,117 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.2.0.0: no header file found
+2021-03-21 21:32:00,117 [WARN] ApiManager:274 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.2.0.0: no header file found
+2021-03-21 21:32:00,118 [WARN] ApiManager:274 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2021-03-21 21:32:00,118 [WARN] ApiManager:274 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2021-03-21 21:32:00,119 [WARN] ApiManager:274 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2021-03-21 21:32:00,119 [WARN] ApiManager:274 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.1.0: no header file found
+2021-03-21 21:32:00,121 [WARN] ApiManager:274 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.1.0: no header file found
+2021-03-21 21:32:04,470 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 478325472 Bytes (567279616)
+2021-03-21 21:32:04,474 [WARN] ThirdParty:741 - waiting for thirdparty lock release [change project]
+2021-03-21 21:32:04,474 [INFO] ThirdParty:743 - entering critical section [change project]
+2021-03-21 21:32:04,474 [INFO] ThirdParty:968 - CMSIS Pack Vendor :RoweBots I-CUBE-UNISONRTOS 5.5.0-4
+2021-03-21 21:32:04,475 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 3.0.0
+2021-03-21 21:32:04,475 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2021-03-21 21:32:04,475 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2021-03-21 21:32:04,475 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 2.0.0
+2021-03-21 21:32:04,475 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2021-03-21 21:32:04,475 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 8.2.0
+2021-03-21 21:32:04,476 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 3.0.0
+2021-03-21 21:32:04,476 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 8.0.0
+2021-03-21 21:32:04,476 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2021-03-21 21:32:04,476 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 2.0.0
+2021-03-21 21:32:04,476 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.1.0
+2021-03-21 21:32:04,476 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 5.1.0
+2021-03-21 21:32:04,477 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.0.0
+2021-03-21 21:32:04,477 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2021-03-21 21:32:04,477 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2021-03-21 21:32:04,477 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.15.0
+2021-03-21 21:32:04,477 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.2
+2021-03-21 21:32:04,477 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.1
+2021-03-21 21:32:04,477 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 5.1.2
+2021-03-21 21:32:04,478 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.0
+2021-03-21 21:32:04,478 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2021-03-21 21:32:04,478 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.0.0
+2021-03-21 21:32:04,478 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2021-03-21 21:32:04,478 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.2.0
+2021-03-21 21:32:04,478 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 3.0.1
+2021-03-21 21:32:04,479 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 3.0.0
+2021-03-21 21:32:04,479 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2021-03-21 21:32:04,479 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2021-03-21 21:32:04,479 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 4.0.0
+2021-03-21 21:32:04,479 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 1.0.0
+2021-03-21 21:32:04,480 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 8.1.1
+2021-03-21 21:32:04,480 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 1.0.0
+2021-03-21 21:32:04,480 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 8.1.0
+2021-03-21 21:32:04,480 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2021-03-21 21:32:04,480 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 6.0.0
+2021-03-21 21:32:04,490 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.2.0
+2021-03-21 21:32:04,491 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 5.0.0
+2021-03-21 21:32:04,491 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 2.0.0
+2021-03-21 21:32:04,491 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 5.2.0
+2021-03-21 21:32:04,491 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.1.0
+2021-03-21 21:32:04,491 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2021-03-21 21:32:04,491 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.14.0
+2021-03-21 21:32:04,492 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 5.2.0
+2021-03-21 21:32:04,492 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.16.1
+2021-03-21 21:32:04,492 [INFO] ThirdParty:968 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 4.7.0
+2021-03-21 21:32:04,492 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.16.0
+2021-03-21 21:32:04,492 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2021-03-21 21:32:04,492 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.1.0
+2021-03-21 21:32:04,493 [INFO] ThirdParty:749 - exiting critical section [change project]
+2021-03-21 21:32:05,518 [INFO] PinOutPanel:1418 - setPackage(No Configuration,No Configuration)
+2021-03-21 21:32:05,520 [INFO] PinOutPanel:1418 - setPackage(STM32F072C8Tx,LQFP48)
+2021-03-21 21:32:08,579 [INFO] UtilMem:74 - Before build in PCC Used Memory: 428289616 Bytes (567279616)
+2021-03-21 21:32:09,716 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Михаил/.stm32cubemx/plugins/power
+2021-03-21 21:32:09,841 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Михаил/.stm32cubemx/plugins/power
+2021-03-21 21:32:09,913 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Михаил/.stm32cubemx/plugins/power
+2021-03-21 21:32:09,926 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Михаил/.stm32cubemx/plugins/power
+2021-03-21 21:32:10,562 [INFO] UtilMem:74 - After build in PCC Used Memory: 418549992 Bytes (567279616)
+2021-03-21 21:32:10,643 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,644 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,644 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,645 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,645 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,646 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,646 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,646 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,647 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,647 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,647 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,649 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,649 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,650 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,650 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,651 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,651 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,651 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,652 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,653 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,653 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,654 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,654 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,655 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,655 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,656 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,656 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,657 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,657 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,657 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,658 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,659 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,660 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,660 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,661 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,661 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,662 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,663 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,663 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,664 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,665 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-21 21:32:10,751 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2021-03-21 21:32:12,200 [INFO] OpenFileManager:294 - Restore cursor
+2021-03-21 21:32:13,982 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 464563632 Bytes (567279616)
+2021-03-21 21:32:14,073 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 469483840 Bytes (567279616)
+2021-03-21 21:32:16,242 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: NVIC
+2021-03-21 21:32:16,243 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: SYS
+2021-03-21 21:32:16,243 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: RCC
+2021-03-21 21:32:16,245 [INFO] CodeGenerator:622 - code generatio: config db path: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\
+2021-03-21 21:32:17,190 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Video\UART\UART_Polling\MXTmpFiles\license.tmp_save
+2021-03-21 21:32:19,048 [INFO] CodeEngine:206 - Generated code: C:\Video\UART\UART_Polling\MXTmpFiles\license.tmp
+2021-03-21 21:32:19,429 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Video\UART\UART_Polling\Core\Src\stm32f0xx_it.c_save
+2021-03-21 21:32:19,723 [INFO] CodeEngine:206 - Generated code: C:\Video\UART\UART_Polling\Core\Src\stm32f0xx_it.c
+2021-03-21 21:32:19,733 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Video\UART\UART_Polling\Core\Inc\stm32f0xx_it.h_save
+2021-03-21 21:32:20,087 [INFO] CodeEngine:206 - Generated code: C:\Video\UART\UART_Polling\Core\Inc\stm32f0xx_it.h
+2021-03-21 21:32:20,106 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Video\UART\UART_Polling\Core\Src\stm32f0xx_hal_msp.c_save
+2021-03-21 21:32:20,357 [INFO] CodeEngine:206 - Generated code: C:\Video\UART\UART_Polling\Core\Src\stm32f0xx_hal_msp.c
+2021-03-21 21:32:20,368 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Video\UART\UART_Polling\MXTmpFiles\system.tmp_save
+2021-03-21 21:32:20,647 [INFO] CodeEngine:206 - Generated code: C:\Video\UART\UART_Polling\MXTmpFiles\system.tmp
+2021-03-21 21:32:20,657 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Video\UART\UART_Polling\Core\Inc\stm32f0xx_hal_conf.h_save
+2021-03-21 21:32:20,891 [INFO] CodeEngine:206 - Generated code: C:\Video\UART\UART_Polling\Core\Inc\stm32f0xx_hal_conf.h
+2021-03-21 21:32:20,982 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Video\UART\UART_Polling\Core\Inc\main.h_save
+2021-03-21 21:32:21,199 [INFO] CodeEngine:206 - Generated code: C:\Video\UART\UART_Polling\Core\Inc\main.h
+2021-03-21 21:32:21,227 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Video\UART\UART_Polling\Core\Src\main.c_save
+2021-03-21 21:32:21,572 [INFO] CodeEngine:206 - Generated code: C:\Video\UART\UART_Polling\Core\Src\main.c
+2021-03-21 21:32:27,564 [INFO] ProjectBuilder:2168 - Time for Copy HAL[1] : 971mS.
+2021-03-21 21:32:27,600 [INFO] ProjectBuilder:2988 - Project Generator version: 3.10.0-B14
+2021-03-21 21:32:29,129 [INFO] ConfigFileManager:1183 - The Die is : DIE448
+2021-03-21 21:32:29,404 [INFO] ApiDbMcu:456 - Load IP Config File for FATFS
+2021-03-21 21:32:29,494 [INFO] ApiDbMcu:456 - Load IP Config File for FREERTOS
+2021-03-21 21:32:29,551 [INFO] ApiDbMcu:456 - Load IP Config File for TOUCHSENSING
+2021-03-21 21:32:29,923 [INFO] ApiDbMcu:456 - Load IP Config File for USB_DEVICE
+2021-03-21 21:32:58,112 [ERROR] root:96 - SUCCESS
+2021-03-21 21:32:58,391 [INFO] ProjectBuilder:3155 - Time for Generating toolchain IDE Files: 30791mS.
+2021-03-21 21:32:58,392 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2021-03-21 21:32:58,394 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2021-03-21 21:33:02,101 [INFO] ApiDb:226 - Save user favorites file C:\Users\Михаил/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2021-03-21 21:33:02,183 [INFO] ApiDb:230 - User favorites MCUs=[]
+2021-03-21 21:34:17,789 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 689590288 Bytes (1061158912)
+2021-03-21 21:34:22,921 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 782896224 Bytes (1061158912)
+2021-03-21 21:34:23,410 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: NVIC
+2021-03-21 21:34:23,410 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: USART
+2021-03-21 21:34:23,410 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: SYS
+2021-03-21 21:34:23,410 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: GPIO
+2021-03-21 21:34:23,410 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: RCC
+2021-03-21 21:34:23,412 [INFO] CodeGenerator:622 - code generatio: config db path: C:\ST\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\
+2021-03-21 21:34:23,838 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Video\UART\UART_Polling\MXTmpFiles\license.tmp_save
+2021-03-21 21:34:23,972 [INFO] CodeEngine:206 - Generated code: C:\Video\UART\UART_Polling\MXTmpFiles\license.tmp
+2021-03-21 21:34:24,509 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Video\UART\UART_Polling\MXTmpFiles\gpio.tmp_save
+2021-03-21 21:34:24,690 [INFO] CodeEngine:206 - Generated code: C:\Video\UART\UART_Polling\MXTmpFiles\gpio.tmp
+2021-03-21 21:34:24,964 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2021-03-21 21:34:24,976 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Video\UART\UART_Polling\Core\Src\stm32f0xx_it.c_save
+2021-03-21 21:34:25,614 [INFO] CodeEngine:206 - Generated code: C:\Video\UART\UART_Polling\Core\Src\stm32f0xx_it.c
+2021-03-21 21:34:25,623 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Video\UART\UART_Polling\Core\Inc\stm32f0xx_it.h_save
+2021-03-21 21:34:25,791 [INFO] CodeEngine:206 - Generated code: C:\Video\UART\UART_Polling\Core\Inc\stm32f0xx_it.h
+2021-03-21 21:34:25,846 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Video\UART\UART_Polling\Core\Src\stm32f0xx_hal_msp.c_save
+2021-03-21 21:34:26,227 [INFO] CodeEngine:206 - Generated code: C:\Video\UART\UART_Polling\Core\Src\stm32f0xx_hal_msp.c
+2021-03-21 21:34:26,235 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Video\UART\UART_Polling\MXTmpFiles\system.tmp_save
+2021-03-21 21:34:26,420 [INFO] CodeEngine:206 - Generated code: C:\Video\UART\UART_Polling\MXTmpFiles\system.tmp
+2021-03-21 21:34:26,430 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Video\UART\UART_Polling\Core\Inc\stm32f0xx_hal_conf.h_save
+2021-03-21 21:34:26,580 [INFO] CodeEngine:206 - Generated code: C:\Video\UART\UART_Polling\Core\Inc\stm32f0xx_hal_conf.h
+2021-03-21 21:34:26,610 [WARN] IPConfigManager:2884 - IP not found : gpio
+2021-03-21 21:34:26,611 [WARN] CodeGenerator:2866 - IP not found : gpio
+2021-03-21 21:34:26,621 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Video\UART\UART_Polling\Core\Inc\main.h_save
+2021-03-21 21:34:26,771 [INFO] CodeEngine:206 - Generated code: C:\Video\UART\UART_Polling\Core\Inc\main.h
+2021-03-21 21:34:26,786 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Video\UART\UART_Polling\Core\Src\main.c_save
+2021-03-21 21:34:27,040 [INFO] CodeEngine:206 - Generated code: C:\Video\UART\UART_Polling\Core\Src\main.c
+2021-03-21 21:34:29,152 [INFO] ProjectBuilder:2168 - Time for Copy HAL[1] : 832mS.
+2021-03-21 21:34:29,708 [INFO] ProjectBuilder:2988 - Project Generator version: 3.10.0-B14
+2021-03-21 21:34:31,949 [INFO] ConfigFileManager:1183 - The Die is : DIE448
+2021-03-21 21:34:41,982 [INFO] ProjectBuilder:3155 - Time for Generating toolchain IDE Files: 12274mS.
+2021-03-21 21:34:41,983 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2021-03-21 21:34:41,985 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2021-03-23 01:44:43,212 [INFO] Activator:178 - 
+
+
+2021-03-23 01:44:43,256 [INFO] Activator:179 - !SESSION log4j initialized
+2021-03-23 01:45:39,658 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://sw-center.st.com:80: Socket Closed
+2021-03-23 01:45:39,694 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80

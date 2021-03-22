@@ -1,0 +1,10 @@
+22:37:32 **** Incremental Build of configuration Debug for project UART_Polling ****
+make -j2 all 
+arm-none-eabi-size   UART_Polling.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8512	     68	   1708	  10288	   2830	UART_Polling.elf
+Finished building: default.size.stdout
+ 
+
+22:37:32 Build Finished. 0 errors, 0 warnings. (took 542ms)
+
